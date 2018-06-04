@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Test002" />
+		<Option pch_mode="2" />
+		<Option compiler="arm-elf-gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Test002" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="arm-elf-gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add option="-DCONFIG_ORANGEPI=1" />
+					<Add option="-DCONFIG_ORANGEPI_A64=1" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Test002" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="arm-elf-gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add option="-DCONFIG_ORANGEPI=1" />
+					<Add option="-DCONFIG_ORANGEPI_A64=1" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add option="-lpthread" />
+				</Linker>
+			</Target>
+			<Target title="Library">
+				<Option output="bin/Library/Test002" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="" />
+				<Option object_output="obj/Library/" />
+				<Option type="2" />
+				<Option compiler="arm-elf-gcc" />
+				<Option createDefFile="1" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add option="-DCONFIG_ORANGEPI=1" />
+					<Add option="-DCONFIG_ORANGEPI_A64=1" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+			<Option target="Debug" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="wiringPi/OrangePi.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="wiringPi/OrangePi.h" />
+		<Unit filename="wiringPi/RaspberryPi.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="wiringPi/RaspberryPi.h" />
+		<Unit filename="wiringPi/drcSerial.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="wiringPi/drcSerial.h" />
+		<Unit filename="wiringPi/max31855.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="wiringPi/max31855.h" />
+		<Unit filename="wiringPi/max5322.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="wiringPi/max5322.h" />
+		<Unit filename="wiringPi/mcp23008.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="wiringPi/mcp23008.h" />
+		<Unit filename="wiringPi/mcp23016.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="wiringPi/mcp23016.h" />
+		<Unit filename="wiringPi/mcp23016reg.h" />
+		<Unit filename="wiringPi/mcp23017.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="wiringPi/mcp23017.h" />
+		<Unit filename="wiringPi/mcp23s08.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="wiringPi/mcp23s08.h" />
+		<Unit filename="wiringPi/mcp23s17.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="wiringPi/mcp23s17.h" />
+		<Unit filename="wiringPi/mcp23x08.h" />
+		<Unit filename="wiringPi/mcp23x0817.h" />
+		<Unit filename="wiringPi/mcp3002.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="wiringPi/mcp3002.h" />
+		<Unit filename="wiringPi/mcp3004.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="wiringPi/mcp3004.h" />
+		<Unit filename="wiringPi/mcp3422.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="wiringPi/mcp3422.h" />
+		<Unit filename="wiringPi/mcp4802.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="wiringPi/mcp4802.h" />
+		<Unit filename="wiringPi/pcf8574.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="wiringPi/pcf8574.h" />
+		<Unit filename="wiringPi/pcf8591.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="wiringPi/pcf8591.h" />
+		<Unit filename="wiringPi/piHiPri.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="wiringPi/piThread.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="wiringPi/sn3218.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="wiringPi/sn3218.h" />
+		<Unit filename="wiringPi/softPwm.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="wiringPi/softPwm.h" />
+		<Unit filename="wiringPi/softServo.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="wiringPi/softServo.h" />
+		<Unit filename="wiringPi/softTone.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="wiringPi/softTone.h" />
+		<Unit filename="wiringPi/sr595.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="wiringPi/sr595.h" />
+		<Unit filename="wiringPi/wiringPi.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="wiringPi/wiringPi.h" />
+		<Unit filename="wiringPi/wiringPiI2C.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="wiringPi/wiringPiI2C.h" />
+		<Unit filename="wiringPi/wiringPiSPI.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="wiringPi/wiringPiSPI.h" />
+		<Unit filename="wiringPi/wiringSerial.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="wiringPi/wiringSerial.h" />
+		<Unit filename="wiringPi/wiringShift.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="wiringPi/wiringShift.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

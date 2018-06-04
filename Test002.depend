@@ -1,0 +1,547 @@
+# depslib dependency file v1.0
+1527953163 source:c:\sysgcc\pro\test002\wiringpi\drcserial.c
+	<stdio.h>
+	<time.h>
+	<string.h>
+	<errno.h>
+	"wiringPi.h"
+	"wiringSerial.h"
+	"drcSerial.h"
+
+1527953163 c:\sysgcc\pro\test002\wiringpi\wiringpi.h
+
+1527953163 c:\sysgcc\pro\test002\wiringpi\wiringserial.h
+
+1527953163 c:\sysgcc\pro\test002\wiringpi\drcserial.h
+
+1528007842 source:c:\sysgcc\pro\test002\wiringpi\max31855.c
+	"wiringPi.h"
+	"wiringPiSPI.h"
+	"max31855.h"
+
+1527953163 c:\sysgcc\pro\test002\wiringpi\wiringpispi.h
+
+1527953163 c:\sysgcc\pro\test002\wiringpi\max31855.h
+
+1528007866 source:c:\sysgcc\pro\test002\wiringpi\max5322.c
+	"wiringPi.h"
+	"wiringPiSPI.h"
+	"max5322.h"
+
+1527953163 c:\sysgcc\pro\test002\wiringpi\max5322.h
+
+1527953163 source:c:\sysgcc\pro\test002\wiringpi\mcp23008.c
+	<stdio.h>
+	<pthread.h>
+	"wiringPi.h"
+	"wiringPiI2C.h"
+	"mcp23x0817.h"
+	"mcp23008.h"
+
+1527953163 c:\sysgcc\pro\test002\wiringpi\wiringpii2c.h
+
+1527953163 c:\sysgcc\pro\test002\wiringpi\mcp23x0817.h
+
+1527953163 c:\sysgcc\pro\test002\wiringpi\mcp23008.h
+
+1527953163 source:c:\sysgcc\pro\test002\wiringpi\mcp23016.c
+	<stdio.h>
+	<pthread.h>
+	"wiringPi.h"
+	"wiringPiI2C.h"
+	"mcp23016.h"
+	"mcp23016reg.h"
+
+1527953163 c:\sysgcc\pro\test002\wiringpi\mcp23016.h
+
+1527953163 c:\sysgcc\pro\test002\wiringpi\mcp23016reg.h
+
+1527953163 source:c:\sysgcc\pro\test002\wiringpi\mcp23017.c
+	<stdio.h>
+	<pthread.h>
+	"wiringPi.h"
+	"wiringPiI2C.h"
+	"mcp23x0817.h"
+	"mcp23017.h"
+
+1527953163 c:\sysgcc\pro\test002\wiringpi\mcp23017.h
+
+1527953163 source:c:\sysgcc\pro\test002\wiringpi\mcp23s08.c
+	<stdio.h>
+	<stdint.h>
+	"wiringPi.h"
+	"wiringPiSPI.h"
+	"mcp23x0817.h"
+	"mcp23s08.h"
+
+1527953163 c:\sysgcc\pro\test002\wiringpi\mcp23s08.h
+
+1527953163 source:c:\sysgcc\pro\test002\wiringpi\mcp23s17.c
+	<stdio.h>
+	<stdint.h>
+	"wiringPi.h"
+	"wiringPiSPI.h"
+	"mcp23x0817.h"
+	"mcp23s17.h"
+
+1527953163 c:\sysgcc\pro\test002\wiringpi\mcp23s17.h
+
+1528007980 source:c:\sysgcc\pro\test002\wiringpi\mcp3002.c
+	"wiringPi.h"
+	"wiringPiSPI.h"
+	"mcp3002.h"
+
+1527953163 c:\sysgcc\pro\test002\wiringpi\mcp3002.h
+
+1528007980 source:c:\sysgcc\pro\test002\wiringpi\mcp3004.c
+	"wiringPi.h"
+	"wiringPiSPI.h"
+	"mcp3004.h"
+
+1527953163 c:\sysgcc\pro\test002\wiringpi\mcp3004.h
+
+1528008041 source:c:\sysgcc\pro\test002\wiringpi\mcp3422.c
+	<stdio.h>
+	<unistd.h>
+	<stdint.h>
+	<fcntl.h>
+	<sys/ioctl.h>
+	<linux/spi/spidev.h>
+	"wiringPi.h"
+	"wiringPiI2C.h"
+	"mcp3422.h"
+
+1527953163 c:\sysgcc\pro\test002\wiringpi\mcp3422.h
+
+1528007980 source:c:\sysgcc\pro\test002\wiringpi\mcp4802.c
+	"wiringPi.h"
+	"wiringPiSPI.h"
+	"mcp4802.h"
+
+1527953163 c:\sysgcc\pro\test002\wiringpi\mcp4802.h
+
+1527953163 source:c:\sysgcc\pro\test002\wiringpi\orangepi.c
+	"wiringPi.h"
+	<stdio.h>
+	<stdint.h>
+	<string.h>
+	<unistd.h>
+	<fcntl.h>
+	"OrangePi.h"
+
+1527953163 c:\sysgcc\pro\test002\wiringpi\orangepi.h
+
+1527953163 source:c:\sysgcc\pro\test002\wiringpi\pcf8574.c
+	<stdio.h>
+	<pthread.h>
+	"wiringPi.h"
+	"wiringPiI2C.h"
+	"pcf8574.h"
+
+1527953163 c:\sysgcc\pro\test002\wiringpi\pcf8574.h
+
+1527953163 source:c:\sysgcc\pro\test002\wiringpi\pcf8591.c
+	<unistd.h>
+	"wiringPi.h"
+	"wiringPiI2C.h"
+	"pcf8591.h"
+
+1527953163 c:\sysgcc\pro\test002\wiringpi\pcf8591.h
+
+1527953163 source:c:\sysgcc\pro\test002\wiringpi\pihipri.c
+	<sched.h>
+	<string.h>
+	"wiringPi.h"
+
+1527953163 source:c:\sysgcc\pro\test002\wiringpi\pithread.c
+	<pthread.h>
+	"wiringPi.h"
+
+1527953163 source:c:\sysgcc\pro\test002\wiringpi\raspberrypi.c
+
+1528008041 source:c:\sysgcc\pro\test002\wiringpi\sn3218.c
+	"wiringPi.h"
+	"wiringPiI2C.h"
+	"sn3218.h"
+
+1527953163 c:\sysgcc\pro\test002\wiringpi\sn3218.h
+
+1527953163 source:c:\sysgcc\pro\test002\wiringpi\softpwm.c
+	<stdio.h>
+	<pthread.h>
+	"wiringPi.h"
+	"softPwm.h"
+
+1527953163 c:\sysgcc\pro\test002\wiringpi\softpwm.h
+
+1527953163 source:c:\sysgcc\pro\test002\wiringpi\softservo.c
+	<string.h>
+	<time.h>
+	<sys/time.h>
+	<pthread.h>
+	"wiringPi.h"
+	"softServo.h"
+
+1527953163 c:\sysgcc\pro\test002\wiringpi\softservo.h
+
+1527953163 source:c:\sysgcc\pro\test002\wiringpi\softtone.c
+	<stdio.h>
+	<pthread.h>
+	"wiringPi.h"
+	"softTone.h"
+
+1527953163 c:\sysgcc\pro\test002\wiringpi\softtone.h
+
+1527953163 source:c:\sysgcc\pro\test002\wiringpi\sr595.c
+	<stdio.h>
+	<stdint.h>
+	"wiringPi.h"
+	"sr595.h"
+
+1527953163 c:\sysgcc\pro\test002\wiringpi\sr595.h
+
+1527953163 source:c:\sysgcc\pro\test002\wiringpi\wiringpii2c.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<errno.h>
+	<string.h>
+	<fcntl.h>
+	<sys/ioctl.h>
+	"wiringPi.h"
+	"wiringPiI2C.h"
+
+1527953163 source:c:\sysgcc\pro\test002\wiringpi\wiringpispi.c
+	<stdint.h>
+	<fcntl.h>
+	<errno.h>
+	<string.h>
+	<sys/ioctl.h>
+	<linux/spi/spidev.h>
+	"wiringPi.h"
+	"wiringPiSPI.h"
+
+1527953163 source:c:\sysgcc\pro\test002\wiringpi\wiringserial.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<stdarg.h>
+	<string.h>
+	<termios.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/stat.h>
+	"wiringSerial.h"
+
+1527953163 source:c:\sysgcc\pro\test002\wiringpi\wiringshift.c
+	<stdint.h>
+	"wiringPi.h"
+	"wiringShift.h"
+
+1527953163 c:\sysgcc\pro\test002\wiringpi\wiringshift.h
+	<stdint.h>
+
+1527953163 source:c:\sysgcc\pro\test002\wiringpi\wiringpi.c
+	<stdio.h>
+	<stdarg.h>
+	<stdint.h>
+	<stdlib.h>
+	<ctype.h>
+	<poll.h>
+	<unistd.h>
+	<errno.h>
+	<string.h>
+	<time.h>
+	<fcntl.h>
+	<pthread.h>
+	<sys/time.h>
+	<sys/mman.h>
+	<sys/stat.h>
+	<sys/wait.h>
+	<sys/ioctl.h>
+	"softPwm.h"
+	"softTone.h"
+	"wiringPi.h"
+	"RaspberryPi.h"
+	"OrangePi.h"
+
+1527953163 c:\sysgcc\pro\test002\wiringpi\raspberrypi.h
+
+1528020583 source:c:\sysgcc\pro\test002\main.c
+	"wiringPi\wiringPi.h"
+
+1528020583 source:e:\projects\git\opi_gpio_ledblink\main.c
+	"wiringPi\wiringPi.h"
+
+1527953163 e:\projects\git\opi_gpio_ledblink\wiringpi\wiringpi.h
+
+1527953163 source:e:\projects\git\opi_gpio_ledblink\wiringpi\drcserial.c
+	<stdio.h>
+	<time.h>
+	<string.h>
+	<errno.h>
+	"wiringPi.h"
+	"wiringSerial.h"
+	"drcSerial.h"
+
+1527953163 e:\projects\git\opi_gpio_ledblink\wiringpi\wiringserial.h
+
+1527953163 e:\projects\git\opi_gpio_ledblink\wiringpi\drcserial.h
+
+1528007842 source:e:\projects\git\opi_gpio_ledblink\wiringpi\max31855.c
+	"wiringPi.h"
+	"wiringPiSPI.h"
+	"max31855.h"
+
+1527953163 e:\projects\git\opi_gpio_ledblink\wiringpi\wiringpispi.h
+
+1527953163 e:\projects\git\opi_gpio_ledblink\wiringpi\max31855.h
+
+1528119406 source:e:\projects\git\opi_gpio_ledblink\wiringpi\max5322.c
+	"wiringPi.h"
+	"wiringPiSPI.h"
+	"max5322.h"
+
+1527953163 e:\projects\git\opi_gpio_ledblink\wiringpi\max5322.h
+
+1527953163 source:e:\projects\git\opi_gpio_ledblink\wiringpi\mcp23008.c
+	<stdio.h>
+	<pthread.h>
+	"wiringPi.h"
+	"wiringPiI2C.h"
+	"mcp23x0817.h"
+	"mcp23008.h"
+
+1527953163 e:\projects\git\opi_gpio_ledblink\wiringpi\wiringpii2c.h
+
+1527953163 e:\projects\git\opi_gpio_ledblink\wiringpi\mcp23x0817.h
+
+1527953163 e:\projects\git\opi_gpio_ledblink\wiringpi\mcp23008.h
+
+1527953163 source:e:\projects\git\opi_gpio_ledblink\wiringpi\mcp23016.c
+	<stdio.h>
+	<pthread.h>
+	"wiringPi.h"
+	"wiringPiI2C.h"
+	"mcp23016.h"
+	"mcp23016reg.h"
+
+1527953163 e:\projects\git\opi_gpio_ledblink\wiringpi\mcp23016.h
+
+1527953163 e:\projects\git\opi_gpio_ledblink\wiringpi\mcp23016reg.h
+
+1527953163 source:e:\projects\git\opi_gpio_ledblink\wiringpi\mcp23017.c
+	<stdio.h>
+	<pthread.h>
+	"wiringPi.h"
+	"wiringPiI2C.h"
+	"mcp23x0817.h"
+	"mcp23017.h"
+
+1527953163 e:\projects\git\opi_gpio_ledblink\wiringpi\mcp23017.h
+
+1527953163 source:e:\projects\git\opi_gpio_ledblink\wiringpi\mcp23s08.c
+	<stdio.h>
+	<stdint.h>
+	"wiringPi.h"
+	"wiringPiSPI.h"
+	"mcp23x0817.h"
+	"mcp23s08.h"
+
+1527953163 e:\projects\git\opi_gpio_ledblink\wiringpi\mcp23s08.h
+
+1527953163 source:e:\projects\git\opi_gpio_ledblink\wiringpi\mcp23s17.c
+	<stdio.h>
+	<stdint.h>
+	"wiringPi.h"
+	"wiringPiSPI.h"
+	"mcp23x0817.h"
+	"mcp23s17.h"
+
+1527953163 e:\projects\git\opi_gpio_ledblink\wiringpi\mcp23s17.h
+
+1528007980 source:e:\projects\git\opi_gpio_ledblink\wiringpi\mcp3002.c
+	"wiringPi.h"
+	"wiringPiSPI.h"
+	"mcp3002.h"
+
+1527953163 e:\projects\git\opi_gpio_ledblink\wiringpi\mcp3002.h
+
+1528007980 source:e:\projects\git\opi_gpio_ledblink\wiringpi\mcp3004.c
+	"wiringPi.h"
+	"wiringPiSPI.h"
+	"mcp3004.h"
+
+1527953163 e:\projects\git\opi_gpio_ledblink\wiringpi\mcp3004.h
+
+1528119884 source:e:\projects\git\opi_gpio_ledblink\wiringpi\mcp3422.c
+	<stdio.h>
+	<unistd.h>
+	<stdint.h>
+	<fcntl.h>
+	<sys/ioctl.h>
+	<linux/spi/spidev.h>
+	"wiringPi.h"
+	"wiringPiI2C.h"
+	"mcp3422.h"
+
+1527953163 e:\projects\git\opi_gpio_ledblink\wiringpi\mcp3422.h
+
+1528007980 source:e:\projects\git\opi_gpio_ledblink\wiringpi\mcp4802.c
+	"wiringPi.h"
+	"wiringPiSPI.h"
+	"mcp4802.h"
+
+1527953163 e:\projects\git\opi_gpio_ledblink\wiringpi\mcp4802.h
+
+1527953163 source:e:\projects\git\opi_gpio_ledblink\wiringpi\orangepi.c
+	"wiringPi.h"
+	<stdio.h>
+	<stdint.h>
+	<string.h>
+	<unistd.h>
+	<fcntl.h>
+	"OrangePi.h"
+
+1527953163 e:\projects\git\opi_gpio_ledblink\wiringpi\orangepi.h
+
+1527953163 source:e:\projects\git\opi_gpio_ledblink\wiringpi\pcf8574.c
+	<stdio.h>
+	<pthread.h>
+	"wiringPi.h"
+	"wiringPiI2C.h"
+	"pcf8574.h"
+
+1527953163 e:\projects\git\opi_gpio_ledblink\wiringpi\pcf8574.h
+
+1527953163 source:e:\projects\git\opi_gpio_ledblink\wiringpi\pcf8591.c
+	<unistd.h>
+	"wiringPi.h"
+	"wiringPiI2C.h"
+	"pcf8591.h"
+
+1527953163 e:\projects\git\opi_gpio_ledblink\wiringpi\pcf8591.h
+
+1527953163 source:e:\projects\git\opi_gpio_ledblink\wiringpi\pihipri.c
+	<sched.h>
+	<string.h>
+	"wiringPi.h"
+
+1527953163 source:e:\projects\git\opi_gpio_ledblink\wiringpi\pithread.c
+	<pthread.h>
+	"wiringPi.h"
+
+1527953163 source:e:\projects\git\opi_gpio_ledblink\wiringpi\raspberrypi.c
+
+1528008041 source:e:\projects\git\opi_gpio_ledblink\wiringpi\sn3218.c
+	"wiringPi.h"
+	"wiringPiI2C.h"
+	"sn3218.h"
+
+1527953163 e:\projects\git\opi_gpio_ledblink\wiringpi\sn3218.h
+
+1527953163 source:e:\projects\git\opi_gpio_ledblink\wiringpi\softpwm.c
+	<stdio.h>
+	<pthread.h>
+	"wiringPi.h"
+	"softPwm.h"
+
+1527953163 e:\projects\git\opi_gpio_ledblink\wiringpi\softpwm.h
+
+1527953163 source:e:\projects\git\opi_gpio_ledblink\wiringpi\softservo.c
+	<string.h>
+	<time.h>
+	<sys/time.h>
+	<pthread.h>
+	"wiringPi.h"
+	"softServo.h"
+
+1527953163 e:\projects\git\opi_gpio_ledblink\wiringpi\softservo.h
+
+1527953163 source:e:\projects\git\opi_gpio_ledblink\wiringpi\softtone.c
+	<stdio.h>
+	<pthread.h>
+	"wiringPi.h"
+	"softTone.h"
+
+1527953163 e:\projects\git\opi_gpio_ledblink\wiringpi\softtone.h
+
+1527953163 source:e:\projects\git\opi_gpio_ledblink\wiringpi\sr595.c
+	<stdio.h>
+	<stdint.h>
+	"wiringPi.h"
+	"sr595.h"
+
+1527953163 e:\projects\git\opi_gpio_ledblink\wiringpi\sr595.h
+
+1527953163 source:e:\projects\git\opi_gpio_ledblink\wiringpi\wiringpi.c
+	<stdio.h>
+	<stdarg.h>
+	<stdint.h>
+	<stdlib.h>
+	<ctype.h>
+	<poll.h>
+	<unistd.h>
+	<errno.h>
+	<string.h>
+	<time.h>
+	<fcntl.h>
+	<pthread.h>
+	<sys/time.h>
+	<sys/mman.h>
+	<sys/stat.h>
+	<sys/wait.h>
+	<sys/ioctl.h>
+	"softPwm.h"
+	"softTone.h"
+	"wiringPi.h"
+	"RaspberryPi.h"
+	"OrangePi.h"
+
+1527953163 e:\projects\git\opi_gpio_ledblink\wiringpi\raspberrypi.h
+
+1527953163 source:e:\projects\git\opi_gpio_ledblink\wiringpi\wiringpii2c.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<errno.h>
+	<string.h>
+	<fcntl.h>
+	<sys/ioctl.h>
+	"wiringPi.h"
+	"wiringPiI2C.h"
+
+1527953163 source:e:\projects\git\opi_gpio_ledblink\wiringpi\wiringpispi.c
+	<stdint.h>
+	<fcntl.h>
+	<errno.h>
+	<string.h>
+	<sys/ioctl.h>
+	<linux/spi/spidev.h>
+	"wiringPi.h"
+	"wiringPiSPI.h"
+
+1527953163 source:e:\projects\git\opi_gpio_ledblink\wiringpi\wiringserial.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<stdarg.h>
+	<string.h>
+	<termios.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/stat.h>
+	"wiringSerial.h"
+
+1527953163 source:e:\projects\git\opi_gpio_ledblink\wiringpi\wiringshift.c
+	<stdint.h>
+	"wiringPi.h"
+	"wiringShift.h"
+
+1527953163 e:\projects\git\opi_gpio_ledblink\wiringpi\wiringshift.h
+	<stdint.h>
+
